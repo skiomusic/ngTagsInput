@@ -180,3 +180,4 @@
 ## v0.1.1 (2013-08-17)
 
 - Removed allowed-chars-pattern option since it wouldn't prevent invalid chars from being inserted by pasting data from the clipboard. The allowed-tags-pattern option is the correct way to validate input from now on
+ 
